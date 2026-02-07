@@ -89,6 +89,10 @@ svg.icon-video {
   #hero .hero-img img {
     width: 50%;
   }
+
+  .btn-get-started, .btn-watch-video {
+    display: none;
+  }
 }
 
 @media (max-width: 768px) {
@@ -106,6 +110,10 @@ svg.icon-video {
   #hero .hero-img img {
     width: 70%;
   }
+
+  .btn-get-started, .btn-watch-video {
+    display: none;
+  }
 }
 
 @media (max-width: 575px) {
@@ -116,6 +124,11 @@ svg.icon-video {
   #hero .btn-get-started {
     font-size: 16px;
     padding: 10px 24px 11px 24px;
+  }
+
+  #hero .btn-get-started, 
+  #hero .btn-watch-video {
+    display: none;
   }
 }
 

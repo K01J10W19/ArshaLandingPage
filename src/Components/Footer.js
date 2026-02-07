@@ -144,7 +144,7 @@ const Footer = () => {
                     &copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved
                 </div>
                 <div className="credits">
-                    Designed by <a href="https://github.com/imtiyazshamim/">Shamim Imtiyaz</a>
+                    Designed by <a href="https://github.com/imtiyazshamim/">qwertyuiop</a>
                 </div>
             </div>
 
